@@ -45,6 +45,10 @@ li:last-child {
   border-bottom: none;
 }
 
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
 button {
   background-color: transparent;
   border: none;
